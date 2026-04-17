@@ -1,0 +1,4 @@
+event_label,country,country_name,regime_type,baseline_vol,pre_event_vol,volume_ratio,volume_drop_flag,baseline_hard_frac,pre_event_hard_frac,hard_block_ratio,mechanism_shift_flag,escalation_flag
+UG_campaign_period_start,UG,Uganda,authoritarian,24.8,17.8,0.72,False,0.124,0.159,1.28,False,False
+UG_election_day,UG,Uganda,authoritarian,48.4,28.0,0.58,True,0.198,0.113,0.57,False,True
+UG_nomination_day,UG,Uganda,authoritarian,5.2,9.6,1.86,False,0.139,0.161,1.16,False,False
