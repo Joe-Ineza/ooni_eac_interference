@@ -1,0 +1,17 @@
+probe_cc,country_name,regime_type,failure_reason,count,layer
+UG,Uganda,authoritarian,android_dns_cache_no_data,460,DNS
+UG,Uganda,authoritarian,dns_nxdomain_error,45,DNS
+UG,Uganda,authoritarian,dns_server_misbehaving,370,DNS
+UG,Uganda,authoritarian,generic_timeout_error,63,DNS
+UG,Uganda,authoritarian,connection_refused,51,TCP
+UG,Uganda,authoritarian,generic_timeout_error,789,TCP
+UG,Uganda,authoritarian,host_unreachable,16,TCP
+UG,Uganda,authoritarian,network_unreachable,9867,TCP
+UG,Uganda,authoritarian,true,1,TCP
+UG,Uganda,authoritarian,connection_reset,4,TLS
+UG,Uganda,authoritarian,generic_timeout_error,406,TLS
+UG,Uganda,authoritarian,ssl_invalid_certificate,84,TLS
+UG,Uganda,authoritarian,ssl_invalid_hostname,56,TLS
+UG,Uganda,authoritarian,ssl_unknown_authority,24,TLS
+UG,Uganda,authoritarian,tls_handshake_failure,20,TLS
+UG,Uganda,authoritarian,tls_illegal_parameter,16,TLS
