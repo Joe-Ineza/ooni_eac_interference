@@ -1,9 +1,0 @@
-probe_cc,country_name,regime_type,blocking_mechanism,count,total,proportion
-UG,Uganda,authoritarian,dns,1157,6710,0.17242921013412818
-UG,Uganda,authoritarian,mixed,1,6710,0.00014903129657228018
-UG,Uganda,authoritarian,tcp,648,6710,0.09657228017883755
-UG,Uganda,authoritarian,throttled_dns,4273,6710,0.6368107302533532
-UG,Uganda,authoritarian,throttled_mixed,15,6710,0.0022354694485842027
-UG,Uganda,authoritarian,throttled_tcp,84,6710,0.012518628912071535
-UG,Uganda,authoritarian,throttled_tls,128,6710,0.019076005961251863
-UG,Uganda,authoritarian,tls,404,6710,0.06020864381520119
