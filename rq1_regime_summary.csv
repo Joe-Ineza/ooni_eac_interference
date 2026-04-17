@@ -1,2 +1,0 @@
-probe_cc,country_name,regime_type,total_measurements,total_anomalies,overall_anomaly_rate,dns_block_mean,tcp_block_mean,tls_block_mean,dns_down_mean,state_interference_index
-UG,Uganda,authoritarian,27676,6710,0.2424483306836248,0.15036493660630407,0.018806908512790866,0.010626535485255648,0.01838596593933176,0.0697940451446891
