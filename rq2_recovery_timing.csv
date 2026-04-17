@@ -1,4 +1,0 @@
-event_label,country,country_name,regime_type,baseline_volume,baseline_hard_block_frac,volume_recovery_threshold,hard_block_recovery_threshold,min_consecutive_days,recovered_within_window,recovery_start_t_day,recovery_end_t_day,days_to_recovery
-UG_campaign_period_start,UG,Uganda,authoritarian,24.75,0.1243,21.04,0.1,2,False,,,
-UG_election_day,UG,Uganda,authoritarian,48.43,0.1976,41.16,0.1,2,False,,,
-UG_nomination_day,UG,Uganda,authoritarian,5.17,0.1389,4.39,0.1,2,False,,,
