@@ -1,0 +1,36 @@
+# ── OONI EAC Analysis — Python Dependencies ───────────────────────────────────
+#
+# SETUP (run once):
+#   python -m venv venv
+#   source venv/bin/activate          # Mac / Linux
+#   venv\Scripts\activate             # Windows
+#   pip install -r requirements.txt
+#   python -m ipykernel install --user --name=ooni_eac --display-name "OONI EAC"
+#
+# Then open the notebook:
+#   jupyter notebook notebooks/ooni_analysis.ipynb
+#
+# To deactivate the venv when done:
+#   deactivate
+
+# Core data
+requests>=2.31.0
+pandas>=2.0.0
+numpy>=1.24.0
+pyarrow>=14.0.0        # Parquet support for pandas
+
+# Visualisation
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.20.0
+
+# Dashboard
+streamlit>=1.35.0
+
+# Notebook
+jupyter>=1.0.0
+ipykernel>=6.0.0
+ipywidgets>=8.0.0      # progress bars in notebook
+
+# Optional — faster parquet
+fastparquet>=2023.0.0
