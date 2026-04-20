@@ -1,0 +1,4 @@
+event_label,event_country,actual_escalation_flag,escalation_prob,escalation_pred,model_name,model_version_utc
+UG_campaign_period_start,UG,0,0.017498417473279664,0,logistic_balanced,2026-04-20T06:33:17Z
+UG_election_day,UG,1,0.9912477289926263,1,logistic_balanced,2026-04-20T06:33:17Z
+UG_nomination_day,UG,0,1.256296467096198e-05,0,logistic_balanced,2026-04-20T06:33:17Z
